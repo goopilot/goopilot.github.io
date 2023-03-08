@@ -28,7 +28,7 @@ url: "https://www.century-solutions.ca" # the base hostname & protocol for your 
 # github_username:  goopilot
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 # remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
